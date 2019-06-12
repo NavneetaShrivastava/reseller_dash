@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Reseller Dashboard
                 </div>
 
                 <div class="links">
